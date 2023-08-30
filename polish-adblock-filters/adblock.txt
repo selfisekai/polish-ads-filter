@@ -7,9 +7,9 @@
 ! Works best with EasyList - be sure to subscribe it as well!
 ! Działa najlepiej z EasyList - pamiętaj aby zasubskrybować!
 !   Patronite ==> https://patronite.pl/polskiefiltry
-! Last modified: 27 August 2023
+! Last modified: 30 August 2023
 ! Expires: 1 day
-! Version: 2023082701
+! Version: 2023083001
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -17,7 +17,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2023 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2023082701 aktualizacja: nie, 27 sierpnia 2023, 22:10:00
+! v.2023083001 aktualizacja: nie, 30 sierpnia 2023, 20:20:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -3930,6 +3930,7 @@ www.ogloszeniarolnicze.com.pl##div.row > .simplemod > .custom, div.moduleBox  > 
 www.oleole.pl###sss_left > .imgHover[alt="gazetka agd"]
 www.oleole.pl###sss_right
 www.onlinecenter.pl##.componentheading_small:nth-of-type(3)
+www.pb.pl##.gps-step-result__chart-committee-unlogged
 www.pcformat.pl###ad_news
 www.photoblog.pl###adsense-top-placeholder
 www.pino.pl###pinowyswietlacz
